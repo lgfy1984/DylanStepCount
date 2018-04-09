@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DylanStepCount</string>
+    <string name="app_history">Count History</string>
+    <string name="history">History</string>
+    <string name="notify">Notify</string>
+    <string name="notify_time">Notify Time</string>
+    <string name="save">Save</string>
+    <string name="steping">Step Counting</string>
+    <string name="stepcount">Step count</string>
+    <string name="app_plan">Seting Plan</string>
+    <string name="app_devsupport">Device Support</string>
+</resources>
